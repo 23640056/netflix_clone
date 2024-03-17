@@ -4,7 +4,7 @@ This project is a clone of the Netflix sign-in page, created to practice HTML an
 
 ## Preview
 
-![](images/netflix-clone-screenshot.png)
+![Netflix clone screenshot](images/netflix-clone-screenshot.png)
 
 ## Acknowledgments
 https://coddy.tech/courses/netflix_signin_page_clone__frontend_project
